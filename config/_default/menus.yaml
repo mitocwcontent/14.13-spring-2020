@@ -1,0 +1,34 @@
+leftnav:
+- identifier: de3c3a71-d600-5928-bb4e-577e0088365c
+  name: Syllabus and Calendar
+  url: /pages/syllabus
+  weight: 10
+- identifier: af35318d-2434-905c-4e09-59d9c43798ae
+  name: Readings
+  url: /pages/readings/
+  weight: 20
+- identifier: aa03ca14-fe4b-c4e7-4d40-04a339fa46b9
+  name: Books of Interest
+  parent: af35318d-2434-905c-4e09-59d9c43798ae
+  url: /pages/readings/books-of-interest
+  weight: 30
+- identifier: fbff7337-c706-c621-94e6-2a5cacd0b9ee
+  name: Video Lectures
+  url: /video_galleries/video-lectures
+  weight: 40
+- identifier: e1460b91-78ed-04f1-60e8-9963055ce410
+  name: Lecture Slides
+  url: /pages/lecture-slides
+  weight: 50
+- identifier: b2f760a7-6602-c9ba-0080-008ffa2d8c4b
+  name: Recitations
+  url: /pages/recitations
+  weight: 60
+- identifier: 731831b3-3564-ab17-c02f-1d9ead7c5f30
+  name: Problem Sets
+  url: /pages/problemsets
+  weight: 70
+- identifier: d6d24900-d487-60fe-1187-273500c52e02
+  name: Quizzes and Exams
+  url: /pages/quizzes_exams
+  weight: 80
